@@ -1,7 +1,0 @@
-C:\Users\Ramez\source\repos\Apriori\Apriori\bin\Debug\Apriori.exe.config
-C:\Users\Ramez\source\repos\Apriori\Apriori\bin\Debug\Apriori.exe
-C:\Users\Ramez\source\repos\Apriori\Apriori\bin\Debug\Apriori.pdb
-C:\Users\Ramez\source\repos\Apriori\Apriori\obj\Debug\Apriori.csprojAssemblyReference.cache
-C:\Users\Ramez\source\repos\Apriori\Apriori\obj\Debug\Apriori.csproj.CoreCompileInputs.cache
-C:\Users\Ramez\source\repos\Apriori\Apriori\obj\Debug\Apriori.exe
-C:\Users\Ramez\source\repos\Apriori\Apriori\obj\Debug\Apriori.pdb
