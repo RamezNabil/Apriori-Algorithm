@@ -1,2 +1,2 @@
 # Apriori-Algorithm
-C# Implementation of Apriori Algorithm
+C# Implementation of Apriori Algorithm.
